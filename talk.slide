@@ -11,7 +11,7 @@ DramaFever.com
 
 *go* *fmt* - Formats you code as Rob Pike intended
 
-*go* *import* - Manages your standard library imports for your source files.
+*go* *import* - Manages your standard library imports for your source files
 
 *go* *test* - Runs your tests
 
@@ -20,14 +20,14 @@ DramaFever.com
 go test - Runs all the tests in the directory
 go test <filename> runs tests in a specific file
 
-You get an "OK" or an error message.
+You get an "OK" or an error message
 
 Yawn...
 
 * But wait, there's more
 
 *go* *test* *-v* 
--Gives you some more info about the tests.
+-Gives you some more info about the tests
 
 *go* *test* *-coverprofile=cover.out*    
 -Profiles your code and saves it to a file
